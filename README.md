@@ -13,8 +13,8 @@ http://members.aol.com/jeffereys/index.htm
 
 this link is long dead, and has been ever since I got the internet.
 
-A large part of the reason I'm posting this code is that is was a major
-influence in me becomming a professional video game developer.
+A large part of the reason I'm posting this code is that it was a major
+influence in me becomming a professional video game developer today.
 
 Some thoughts I have on this code is that it is really bad. The game loop works
 but it's not very smooth. Partly this was due to the limits of QBasic, partly
